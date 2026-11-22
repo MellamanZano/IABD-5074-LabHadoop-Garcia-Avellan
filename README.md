@@ -6,12 +6,12 @@ Laboratorio práctico de Infraestructura como Código (IaC) desplegado con **Doc
 
 ## Autoría y Datos Académicos
 
-* **Autor/a:** [Nombre Apellido1 Apellido2]
+* **Autor/a:** Zanoni Garcia
 * **Centro Educativo:** Campus Cámara de Comercio de Sevilla
 * **Ciclo Formativo:** Curso de Especialización en Inteligencia Artificial y Big Data (IABD)
 * **Módulo Profesional:** 5074 / 5075 – Sistemas de Big Data / Infraestructuras Big Data
 * **Resultado de Aprendizaje:** RA 2 – Gestión de sistemas de almacenamiento y procesamiento distribuido
-* **Fecha:** [DD/MM/2026]
+* **Fecha:** 22/11/2026
 
 ---
 
